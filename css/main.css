@@ -47,12 +47,9 @@ section {
 .btn {
     cursor: crosshair;
     border: 0;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    padding-left: 12px;
-    padding-right: 12px;
+    padding: 6px 12px;
     border-radius: 3px;
-    line-height: 1.4px;
+    line-height: 1.4;
 }
 
 .btn-default {
@@ -67,14 +64,10 @@ section {
 
 .form-control {
     display: block;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    padding-left: 12px;
-    padding-right: 12px;
-    border: 1px;
-    border: #a0a0a0;
+    padding: 6px 12px;
+    border: 1px solid #a0a0a0;
     color: #8598a2;
-    line-height: 1.4px
+    line-height: 1.4;
 }
 
 .text-light {
